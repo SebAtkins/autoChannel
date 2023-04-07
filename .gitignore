@@ -6,6 +6,10 @@ __pycache__/
 # Videos
 *.mp4
 
+# Keys
+*.txt
+*.json
+
 # C extensions
 *.so
 
